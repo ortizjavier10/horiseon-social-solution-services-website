@@ -136,7 +136,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/* content section end */
+
+* content section end */
 
  /* benefits section start */
 .benefits {
@@ -197,7 +198,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* benfits section end */
+/* benefits section end */
 
 /* footer start */
 .footer {
