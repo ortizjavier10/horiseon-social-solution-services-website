@@ -1,8 +1,11 @@
 # Horiseon Social Solution Services, Inc.
 Website Accessibilty Standards
 <img src="assets/images/icons8-web-accessibility-48.png" >
-## Description
-### Items Added:
+
+##Website
+<img src="assets/images/Screen Shot 2020-06-09 at 11.19.58 PM.png" >
+
+## Items Added:
 1. Simantec HTML elements.
 2. Image elements have alt descriptions.
 3. Accesibilty standards
