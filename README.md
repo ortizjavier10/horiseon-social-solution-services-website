@@ -2,7 +2,7 @@
 Website Accessibilty Standards
 <img src="assets/images/icons8-web-accessibility-48.png" >
 
-##Website
+Website
 <img src="assets/images/Screen Shot 2020-06-09 at 11.19.58 PM.png" >
 
 ## Items Added:
